@@ -40,4 +40,3 @@ The more you listen, the better the graph gets.
 - `spotipy`, `pandas`, `matplotlib` (install with `pip install spotipy pandas matplotlib`)
 
 Created by LuisBoss – the guy who refused to lose to Spotify's API lockdown.
-Welcome to 69.
