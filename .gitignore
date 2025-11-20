@@ -1,0 +1,4 @@
+# Never upload these!
+.cache
+__pycache__/
+*.pyc
