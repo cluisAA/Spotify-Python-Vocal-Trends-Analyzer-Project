@@ -11,7 +11,7 @@ Pop vocals shifted dramatically:
 - 2010s → mid-2010s: low growls, rap delivery, explicit lyrics
 - Late 2010s → 2025: high falsettos, clean/smooth vocals, emotional pop
 
-### How it works now (the 69 proxy)
+### How it works 
 Since we can't get real audio features, we use the only free data Spotify still gives:
 - Track popularity (0–100)
 - Explicit tag
